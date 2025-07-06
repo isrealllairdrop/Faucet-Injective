@@ -20,16 +20,15 @@ Ikuti langkah-langkah sederhana ini untuk memulai.
 
 Pastikan Anda telah menginstal **Python 3** di sistem Anda.
 
-### 2. Instalasi
-
-1.  **Dapatkan Skrip**
-    Salin kode dari file `bot.py` dan simpan di komputer Anda, atau kloning repositori ini.
-
-2.  **Instal Dependensi**
-    Skrip ini memerlukan beberapa library Python. Buka terminal atau Command Prompt Anda dan jalankan perintah berikut:
-    ```bash
-    pip install requests bech32
-    ```
+### 2. Clone repositori
+```bash
+git clone https://github.com/isrealllairdrop/Faucet-Injective.git
+cd Faucet-Injective
+```
+### 3. Instalasi
+```bash
+pip install requests bech32
+```
 
 ### 3. Konfigurasi
 
@@ -84,4 +83,3 @@ Punya pertanyaan, kritik, atau saran? Jangan ragu untuk menghubungi saya.
 
 ---
 
-Dibuat dengan ❤️ untuk komunitas crypto. Semoga berhasil!
